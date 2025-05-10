@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35931.197 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DPA.ZAVALAPC01.API", "DPA.ZAVALAPC01.API\DPA.ZAVALAPC01.API.csproj", "{8D6FA6C5-E009-4707-8AD3-4AB8D6B8D593}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DPA.ZAVALAPC01.DOMAIN", "DPA.ZAVALAPC01.DOMAIN\DPA.ZAVALAPC01.DOMAIN.csproj", "{E90A9805-BE51-4FE0-8C98-006E876E53F3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8D6FA6C5-E009-4707-8AD3-4AB8D6B8D593}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D6FA6C5-E009-4707-8AD3-4AB8D6B8D593}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D6FA6C5-E009-4707-8AD3-4AB8D6B8D593}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D6FA6C5-E009-4707-8AD3-4AB8D6B8D593}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E90A9805-BE51-4FE0-8C98-006E876E53F3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E90A9805-BE51-4FE0-8C98-006E876E53F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E90A9805-BE51-4FE0-8C98-006E876E53F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E90A9805-BE51-4FE0-8C98-006E876E53F3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {27DAA5F1-48D5-4552-93B6-7AE410C34F6E}
+	EndGlobalSection
+EndGlobal
